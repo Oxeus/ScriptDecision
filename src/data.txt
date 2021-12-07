@@ -1,0 +1,7 @@
+50|As you, Arthur, walk down a path whilst on an adventure you encounter a wolf. Do you fight or run away? (1 to Fight, 2 to Run Away)|2|Arthur|Wolf| 
+25|You vanquished the wolf. After doing this you walk further down the path, and encounter a split in the path, which way will you go? (1 for Left, 2 for Right)|1|Arthur| 
+15|You reached your destination, Ramshorn, ready to travel another day. (1 or 2 to Quit Adventure)|2|Arthur|Ramshorn| 
+35|You reached a ciff, without caution you looked over the edge and fell off never to be seen again. (1 or 2 to Quit Adventure)|2|Arthur|Cliff| 
+75|You ran away from the wolf, getting lost in the chase. You don't know the way to go. What do you want to do? (1 to Turn Back, 2 to Keep Going Forward)|1|Arthur| 
+65|You turned back and headed back to the village from which you came. You will try again another day. What do you want to do? (1 or 2 to Quit Adventure)|1|Arthur|  
+100|You kept going on the path and encountered a bear. To bad the bear was hungry and ate you. you were never seen again. What do you want to do? (1 or 2 to QUit Adventure)|2|Arthur|Hungry Bear| 
